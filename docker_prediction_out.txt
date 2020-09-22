@@ -1,0 +1,6 @@
+Dhineshs-MacBook-Pro:microservices Don$ ./make_prediction.sh 
+Port: 8080
+{
+  "prediction": [
+    20.35373177134412
+  ]
